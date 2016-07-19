@@ -1,0 +1,11 @@
+body {
+	width:649px;height:1000px;
+	background-color:#a8e9ff;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#009688, endColorstr=#d9dbd4);
+	background-image:-moz-linear-gradient(top, #009688 20%, #d9dbd4 20%);
+	background-image:-webkit-linear-gradient(top, #009688 20%, #d9dbd4 20%);
+	background-image:-ms-linear-gradient(top, #009688 20%, #d9dbd4 20%);
+	background-image:linear-gradient(top, #009688 20%, #d9dbd4 20%);
+	background-image:-o-linear-gradient(top, #009688 20%, #d9dbd4 20%);
+	background-image:-webkit-gradient(linear, right top, right bottom, color-stop(20%,#009688), color-stop(20%,#d9dbd4));}
+}
